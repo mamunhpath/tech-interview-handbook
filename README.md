@@ -2,12 +2,15 @@
 
 <div align="center">
   <a href="https://yangshun.github.io/tech-interview-handbook/">
-    <img src="website/static/img/logo.svg" alt="Tech Interview Handbook" width="400"/>
-    </a>
+    <img src="website/static/img/logo.svg" alt="Tech Interview Handbook" width="400">
+  </a>
+  <br>
+  <a href="https://gitpod.io/#https://github.com/yangshun/tech-interview-handbook">
+    <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod" alt="Gitpod Ready to Code">
+  </a>
   <br>
   <p>
-    <em>Credits: <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">Illustration</a> by <a href="https://dribbble.com/yangheng">@yangheng</a>
-    </em>
+    <em>Credits: <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">Illustration</a> by <a href="https://dribbble.com/yangheng">@yangheng</a></em>
   </p>
   <h3>
     <a href="https://yangshun.github.io/tech-interview-handbook/">Read on the website</a>
@@ -22,7 +25,7 @@ Carefully curated content to help you ace your next technical interview, with a 
 - [Interview Cheatsheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet) - Straight-to-the-point Do's and Don'ts
 - [Algorithm tips and the best practice questions](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction) categorized by topic
 - ["Front-end Job Interview Questions" answers](https://github.com/yangshun/front-end-interview-handbook)
-- [Interview formats](https://yangshun.github.io/tech-interview-handbook/company-interview-formats) of the top tech companies
+- [Interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats) of the top tech companies
 - [Behavioral questions](https://yangshun.github.io/tech-interview-handbook/behavioral-questions) asked by the top tech companies
 - [Good questions to ask your interviewers](https://yangshun.github.io/tech-interview-handbook/questions-to-ask) at the end of the interviews
 - [Helpful resume tips](https://yangshun.github.io/tech-interview-handbook/resume) to get your resume noticed and the Do's and Don'ts
@@ -36,6 +39,14 @@ This repository has _practical_ content that covers all phases of a technical in
 ## Who is this for?
 
 Anybody who wants to land a job at a tech company but is new to technical interviews, seasoned engineers who have not been on the other side of the interviewing table in a while and want to get back into the game, or anyone who wants to be better at technical interviewing.
+
+---
+
+<div align="center">
+  <strong>💰 Looking for a job? Sign up for free with <a href="https://triplebyte.com/a/PJaJNpO/tihg">Triplebyte</a> to efficiently interview with top tech companies! 💰</strong>
+</div>
+
+---
 
 ## How is this repository different?
 
@@ -59,9 +70,21 @@ If you are interested in how data structures are implemented, check out [Lago](h
 
 There are no formal contributing guidelines at the moment as things are still in flux and we might find a better approach to structure content as we go along. You are welcome to contribute whatever you think will be helpful to fellow engineers. If you would like to contribute content for different domains, feel free to create an issue or submit a pull request and we can discuss further.
 
+### Online one-click setup for contributing
+
+You can use Gitpod (A free online VS Code-like IDE) for contributing online. With a single click it will launch a workspace and automatically:
+
+- clone the tech-interview-handbook repo.
+- install the dependencies.
+- run `yarn start`.
+
+So that you can start straight away.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/yangshun/tech-interview-handbook)
+
 ### Contributors
 
-This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/yangshun/tech-interview-handbook/graphs/contributors"><img src="https://opencollective.com/tech-interview-handbook/contributors.svg?width=890&button=false" /></a>
+This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/yangshun/tech-interview-handbook/graphs/contributors"><img src="https://opencollective.com/tech-interview-handbook/contributors.svg?width=890&button=false"></a>
 
 ### Backers
 
@@ -69,7 +92,7 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 <a href="https://opencollective.com/tech-interview-handbook#backers" target="_blank"><img src="https://opencollective.com/tech-interview-handbook/backers.svg?width=890"></a>
 
-<a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/yangshun" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important; width: auto !important;"></a>
 
 ### Sponsors
 
@@ -81,3 +104,7 @@ Support this project by becoming a sponsor. Your logo/profile picture will show 
 
 - [Yangshun Tay](https://github.com/yangshun)
 - [Louie Tan](https://github.com/louietyj)
+
+## Disclaimer
+
+I am providing code in the repository to you under an open source license. Because this is my personal repository, the license you receive to my code is from me and not my employer (Facebook)

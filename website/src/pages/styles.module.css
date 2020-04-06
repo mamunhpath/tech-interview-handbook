@@ -21,6 +21,26 @@
   justify-content: center;
 }
 
+.sectionTitle {
+  font-size: 2rem;
+}
+
+.sectionTagline {
+  font-size: 1.25rem;
+}
+
 .sectionAlt {
-  background-color: var(--ifm-color-emphasis-alpha-05);
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+.sectionPrimary {
+  background-color: var(--ifm-color-primary);
+}
+
+.sectionPrimaryTitle {
+  color: var(--ifm-color-white);
+}
+
+.quote {
+  font-size: 1.1rem;
 }

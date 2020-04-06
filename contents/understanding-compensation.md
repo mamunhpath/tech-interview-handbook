@@ -5,7 +5,7 @@ title: Understanding Compensation
 
 Compensation is a huge factor when it comes to deciding between job offers. This section gives you a breakdown of the common components of compensation in the tech industry.
 
-In most companies, your compensation will consist of base salary, a performance bonus and equity/stocks.
+In most companies, your compensation will consist of base salary, a performance bonus and equity/stocks. For compensation data, check out [Levels.fyi](https://www.levels.fyi).
 
 ### Base salary
 
@@ -29,13 +29,13 @@ Bonuses are usually paid on a semi-annual basis and are typically dependent on a
 
 #### Examples
 
-- Brandon is a Software Engineer fresh out of college. His base salary is 100,000, is a fresh grad (seniority multiplier: 10%), crushed expectations for the half (individual performance multiplier: 200%) and his company did pretty well (company performance multiplier: 120%). For that half, his bonus will be as follows:
+- Bob is a Software Engineer fresh out of college. His base salary is 100,000, is a fresh grad (seniority multiplier: 10%), crushed expectations for the half (individual performance multiplier: 200%) and his company did pretty well (company performance multiplier: 120%). For that half, his bonus will be as follows:
 
-  - **Bonus:** 100,000 x 50% (for the half) x 10% (seniority) x 200% (individual performance) x 120% (company performance) = 12000
+  - **Bonus:** 100,000 x 50% (half a year) x 10% (seniority) x 200% (individual performance) x 120% (company performance) = 12000
 
-- Alyssa is an Engineering Manager with 10 years of professional experience. Her base salary is 220,000, is an experienced engineering manager (seniority multiplier: 20%), exceeded expectations for the half (individual performance multiplier: 150%) and her company did pretty awesome (company performance multiplier: 130%). For that half, her bonus will be as follows:
+- Alice is an Engineering Manager with 10 years of professional experience. Her base salary is 220,000, is an experienced engineering manager (seniority multiplier: 20%), exceeded expectations for the half (individual performance multiplier: 150%) and her company did pretty awesome (company performance multiplier: 130%). For that half, her bonus will be as follows:
 
-  - **Bonus:** 200,000 x 50% (for the half) x 20% (seniority) x 200% (individual performance) x 130% (company performance) = 39000
+  - **Bonus:** 200,000 x 50% (half a year) x 20% (seniority) x 200% (individual performance) x 130% (company performance) = 39000
 
 Hence the amount of bonus you receive can be highly variable and senior employees get a higher proportion of their compensation from bonuses.
 
@@ -47,7 +47,7 @@ Equity usually vests (becomes available to you) over a period of time (typically
 
 Until the company goes public or gets acquired, the equity is not worth anything. Be mindful of what you are getting yourself into!
 
-Not all equity is treated equally. Depending on the company you join and which stage that company is at, you may receive one of the following types: stock options or stock frants.
+Not all equity is treated equally. Depending on the company you join and which stage that company is at, you may receive one of the following types: stock options or stock grants.
 
 #### Stock options
 

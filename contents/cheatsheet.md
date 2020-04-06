@@ -5,15 +5,13 @@ title: Cheatsheet
 
 This is a straight-to-the-point, distilled list of technical interview Do's and Don'ts, mainly for algorithmic interviews. Some of these may apply to only phone screens or whiteboard interviews, but most will apply to both. I revise this list before each of my interviews to remind myself of them and eventually internalized all of them to the point I do not have to rely on it anymore.
 
-## The Process
-
 #### Legend
 
 - ✅ = Do
 - ❌ = Don't
 - ⚠️ = Situational
 
-### 1. Before Interview
+### Before interview
 
 |  | Things |
 | --- | --- |
@@ -23,13 +21,13 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 | ✅ | Request for the option to interview over Hangouts/Skype instead of a phone call; it is easier to send links or text across. |
 | ✅ | Decide on and be familiar with a programming language. |
 | ✅ | Familiarize yourself with the coding environment (CoderPad/CodePen). Set up the coding shortcuts, turn on autocompletion, tab spacing, etc. |
-| ✅ | Prepare answers to the [frequently-asked questions](behavioral-questions.md) in an interview. |
+| ✅ | Prepare answers to the [frequently-asked behavioral questions](behavioral-questions.md) in an interview. |
 | ✅ | Prepare some [questions to ask](questions-to-ask.md) at the end of the interview. |
 | ✅ | Dress comfortably. Usually you do not need to wear smart clothes, casual should be fine. T-shirts and jeans are acceptable at most places. |
 | ✅ | Stay calm and composed. |
 | ⚠️ | Turn off the webcam if possible. Most remote interviews will not require video chat and leaving it on only serves as a distraction. |
 
-### 2. Introduction
+### Introduction
 
 |  | Things |
 | --- | --- |
@@ -38,12 +36,12 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 | ✅ | Sound enthusiastic! Speak with a smile and you will naturally sound more engaging. |
 | ❌ | Spend too long introducing yourself. The more time you spend talking the less time you have to code. |
 
-### 3. Upon Getting the Question
+### Upon receiving the question
 
 |  | Things |
 | --- | --- |
 | ✅ | Repeat the question back at the interviewer. |
-| ✅ | Clarify any assumptions you made subconsciously. Many questions are under-specified on purpose. A tree-like diagram could very well be a graph that allows for cycles and a naive recursive solution would not work. |
+| ✅ | Clarify any assumptions you made subconsciously. Many questions are under-specified on purpose. E.g. a tree-like diagram could very well be a graph that allows for cycles and a naive recursive solution would not work. |
 | ✅ | Clarify input format and range. Ask whether input can be assumed to be well-formed and non-null. |
 | ✅ | Work through a small example to ensure you understood the question. |
 | ✅ | Explain a high level approach even if it is a brute force one. |
@@ -55,7 +53,7 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 | ❌ | Start coding without interviewer's green light. |
 | ❌ | Appear too unsure about your approach or analysis. |
 
-### 4. During Coding
+### During coding
 
 |  | Things |
 | --- | --- |
@@ -68,17 +66,17 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 | ✅ | Use the hints given by the interviewer. |
 | ✅ | Demonstrate mastery of your chosen programming language. |
 | ✅ | Demonstrate technical knowledge in data structures and algorithms. |
-| ✅ | If you are cutting corners in your code, state that out loud to your interviewer and say what you would do in a non-interview setting (no time constraints). E.g., I would write a regex to parse this string rather than using `split()` which may not cover all cases. |
+| ✅ | If you are cutting corners in your code, state that out loud to your interviewer and say what you would do in a non-interview setting (no time constraints). E.g., "Under non-interview settings, I would write a regex to parse this string rather than using `split()` which may not cover all cases." |
 | ✅ | Practice whiteboard space-management skills. |
 | ⚠️ | Reasonable defensive coding. Check for nulls, empty collections, etc. Can omit if input validity has been clarified with the interviewer. |
 | ❌ | Remain quiet the whole time. |
 | ❌ | Spend too much time writing comments. |
-| ❌ | Use extremely verbose variable names. |
-| ❌ | Copy and paste code without checking. |
+| ❌ | Use extremely verbose or single-character (unless they're common like `i`, `n`) variable names. |
+| ❌ | Copy and paste code without checking (e.g. variables need to be renamed). |
 | ❌ | Interrupt your interviewer when they are talking. Usually if they speak, they are trying to give you hints or steer you in the right direction. |
 | ❌ | Write too big (takes up too much space) or too small (illegible) if on a whiteboard. |
 
-### 5. After Coding
+### After coding
 
 |  | Things |
 | --- | --- |
@@ -92,7 +90,7 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 | ❌ | Immediately announce that you are done coding. Do the above first! |
 | ❌ | Argue with the interviewer. They may be wrong but that is very unlikely given that they are familiar with the question. |
 
-### 6. Wrap Up
+### Wrap up
 
 |  | Things |
 | --- | --- |
@@ -101,7 +99,7 @@ This is a straight-to-the-point, distilled list of technical interview Do's and 
 | ⚠️ | Ask about your interview performance. It can get awkward. |
 | ❌ | End the interview without asking any questions. |
 
-### 7. Post Interview
+### Post interview
 
 |  | Things |
 | --- | --- |

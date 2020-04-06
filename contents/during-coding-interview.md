@@ -1,6 +1,6 @@
 ---
-id: coding-round-phases
-title: Phases
+id: during-coding-interview
+title: During the Coding Interview
 ---
 
 Congratulations, you are ready to put your skills into practice! In a real coding interview, you will be given a technical question by the interviewer, write code in a real-time collaborative editor (phone screen) or on a whiteboard (on-site) to solve the problem within 30–45 minutes. This is where the real fun begins!
@@ -15,25 +15,7 @@ Use earphones and make sure you are in a quiet environment. You definitely do no
 
 ## Self introduction
 
-Prepare a self introduction that follows the following outline (inspired by "Cracking the Coding Interview" by Gayle McDowell):
-
-1. A sentence about your current or most recent role.
-1. A few sentences about your (academic) background. What did you focus on?
-1. Some sentences about your professional experience after school/university. Where did you work? What projects did you deal with? What where typical challenges and tasks? Which technologies did you use?
-1. Mention one to two sentences about what you do outside of work, if it is relevant for the role.
-1. Finish with a statement saying why you are seeking a new job opportunity and why you are interested in the role you applied for.
-
-An example of the above could be:
-
-> I'm John Doe and currently a Software Engineer at Google.
->
-> My background is in Computer Science, where I received my bachelor's degree at MIT and my Master's degree at Stanford. I mainly did research on how to decrease complexity of search algorithms.
->
-> After university, I started to work at Microsoft as a Software Engineer. It was a great experience as I was working in the Office team contributing to MS Word and MS Powerpoint. I learned a lot about C# and .NET back then. After about two years, I got an offer from Google where I have been working since then. I'm now leading the Search Optimization team and have gained a lot of knowledge in scalability and domain knowledge. My daily tasks consist of optimizing search queries and mentoring junior engineers.
->
-> Outside of work I develop a on open source projects written in Python. Examples of some open source projects I created are &lt;insert examples&gt;.
->
-> I'm now seeking new job opportunities in the Boston area since I'm relocating for personal reasons. In particular I think Boston Dynamics is a perfect fit for my interests as well as my skill set.
+Prepare a self introduction by following the [self introduction section](./self-introduction.md).
 
 ## Upon receiving the question
 
@@ -57,7 +39,23 @@ Start with a brute force approach, communicate it to the interviewer, explain th
 
 Only start coding after you and your interviewer have agreed on an approach and they have given you the green light.
 
-## Starting to code
+## What to do when stuck
+
+Getting stuck during coding interviews is extremely common. But do not worry, that is part of the process and is a test of your problem solving abilities. Here are some tips to try out when you are stuck:
+
+- Talk through what you initially thought might work and explain why it doesn't
+  - This can help guide you on the right track by avoiding the pitfalls
+- Come up with more test cases and write them down
+  - A pattern may emerge
+- Think about how you would solve it without a program
+  - You may spot a pattern and come up with a general algorithm for it
+- Recall past questions related to the topic, what similar questions in the past have you encountered and what techniques did you use?
+- Enumerate through the common data structures and whether they can be applied to the question
+  - Dictionaries/maps are extremely common in making algorithms more efficient
+- Look out for repeated work and determine if you can cache those computations
+  - Trade off memory for speed
+
+## While coding
 
 Write your code with good coding style. Reading code written by others is usually not an enjoyable task. Reading horribly-formatted code by others makes it worse. Your goal is to make your interviewer understand the code you have written so that they can quickly evaluate if your code does what you say it does and whether it solves the given problem. Use clear variable names, avoid single letter names unless they are for iteration. However, if you are coding on a whiteboard, you might not want to use extremely verbose variable names for the sake of reducing the amount you have to write. Abbreviations are usually fine if you explain what it means beforehand.
 
