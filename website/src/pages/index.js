@@ -140,8 +140,46 @@ function Home() {
           className={classnames(
             'margin-vert--lg',
             'padding-vert--lg',
-            'text--center',
             styles.sectionAlt,
+          )}>
+          <div className="container">
+            <div className="row">
+              <div className="col col--6 col--offset-3">
+                <h2
+                  className={classnames(
+                    'margin-vert--lg',
+                    'text--center',
+                    styles.sectionTitle,
+                  )}>
+                  Success Stories
+                </h2>
+                {successStories.map((user) => (
+                  <div className="card margin-vert--lg" key={user.name}>
+                    <div className="card__body">
+                      <p className={styles.quote}>"{user.quote}"</p>
+                    </div>
+                    <div className="card__header">
+                      <div className="avatar">
+                        <img className="avatar__photo" src={user.thumbnail} />
+                        <div className="avatar__intro">
+                          <h4 className="avatar__name">{user.name}</h4>
+                          <small className="avatar__subtitle">
+                            {user.title}
+                          </small>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          className={classnames(
+            'margin-vert--lg',
+            'padding-vert--lg',
+            'text--center',
           )}>
           <div className="container">
             <div className="row">
@@ -164,39 +202,9 @@ function Home() {
                     <img src="https://opencollective.com/tech-interview-handbook/sponsor/0/avatar.svg" />
                   </a>
                   <a
-                    href="https://opencollective.com/tech-interview-handbook/sponsor/3/website"
+                    href="https://opencollective.com/tech-interview-handbook/sponsor/1/website"
                     target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/3/avatar.svg" />
-                  </a>{' '}
-                  <a
-                    href="https://opencollective.com/tech-interview-handbook/sponsor/4/website"
-                    target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/4/avatar.svg" />
-                  </a>{' '}
-                  <a
-                    href="https://opencollective.com/tech-interview-handbook/sponsor/5/website"
-                    target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/5/avatar.svg" />
-                  </a>{' '}
-                  <a
-                    href="https://opencollective.com/tech-interview-handbook/sponsor/6/website"
-                    target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/6/avatar.svg" />
-                  </a>{' '}
-                  <a
-                    href="https://opencollective.com/tech-interview-handbook/sponsor/7/website"
-                    target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/7/avatar.svg" />
-                  </a>{' '}
-                  <a
-                    href="https://opencollective.com/tech-interview-handbook/sponsor/8/website"
-                    target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/8/avatar.svg" />
-                  </a>{' '}
-                  <a
-                    href="https://opencollective.com/tech-interview-handbook/sponsor/9/website"
-                    target="_blank">
-                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/9/avatar.svg" />
+                    <img src="https://opencollective.com/tech-interview-handbook/sponsor/1/avatar.svg" />
                   </a>
                 </div>
                 <div className="margin-vert--lg">
@@ -208,40 +216,6 @@ function Home() {
                     Become a sponsor!
                   </a>
                 </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className={classnames('margin-vert--lg', 'padding-vert--lg')}>
-          <div className="container">
-            <div className="row">
-              <div className="col col--6 col--offset-3">
-                <h2
-                  className={classnames(
-                    'margin-vert--lg',
-                    'text--center',
-                    styles.sectionTitle,
-                  )}>
-                  Success Stories
-                </h2>
-                {successStories.map(user => (
-                  <div className="card margin-vert--lg" key={user.name}>
-                    <div className="card__body">
-                      <p className={styles.quote}>"{user.quote}"</p>
-                    </div>
-                    <div className="card__header">
-                      <div className="avatar">
-                        <img className="avatar__photo" src={user.thumbnail} />
-                        <div className="avatar__intro">
-                          <h4 className="avatar__name">{user.name}</h4>
-                          <small className="avatar__subtitle">
-                            {user.title}
-                          </small>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                ))}
               </div>
             </div>
           </div>

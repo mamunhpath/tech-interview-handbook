@@ -10,12 +10,20 @@
   </a>
   <br>
   <p>
-    <em>Credits: <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">Illustration</a> by <a href="https://dribbble.com/yangheng">@yangheng</a></em>
+    <em>Credits: <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">Illustration</a> by <a href="https://dribbble.com/leftaligned">@leftaligned</a></em>
   </p>
   <h3>
     <a href="https://yangshun.github.io/tech-interview-handbook/">Read on the website</a>
   </h3>
 </div>
+
+<hr/>
+
+<h3 align="center">
+  Black Lives Matter. <a href="https://support.eji.org/give/153413/#!/donation/checkout" target="_blank">Support the Equal Justice Initiative</a>
+</h3>
+
+<hr/>
 
 ## What is this?
 
