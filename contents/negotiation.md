@@ -3,6 +3,32 @@ id: negotiation
 title: Negotiation
 ---
 
+## Always Negotiate
+
+If you've received an offer (or even better, offers), congratulations! You may heave a huge sigh of relief and think that the toughest parts are over. Well yes, but not entirely! For most people, the reason they're finding a new job is to increase their salary, and salary negotiation is the last stretch in achieving that goal.
+
+**Here's something that recruiters don't want you to know -** In most cases, there's room for negotiation on your offer and _recruiters expect candidates to negotiate_. The initial offer that you are given is not the best package that the company can offer. During my last job hunting experience, I received offers from numerous top tech companies like Facebook, Google, Airbnb, Lyft, Dropbox, and I have found this to be true. In most cases, you could always negotiate for more money, and some aspects of your salary is easier to negotiate than others. With many offers in hand, I was able to negotiate a better offer from every company.
+
+If you haven't been negotiating your past offers, or are new to the negotiation game, worry not! There are multiple negotiation services that can help you out. Typically, they'd be well-worth the cost.
+
+### Moonchaser
+
+How it works is that you will be guided by their experienced team of professionals throughout the entire salary negotiation process. It's also risk-free because you don't have to pay anything unless you have an increased offer. It's a **no-brainer decision** to get the help of Moonchaser during the offer process. Some increase is better than no increase. Don't leave money on the table! Check out [Moonchaser](https://www.moonchaser.io/?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=website_negotiation).
+
+### Levels.fyi
+
+[Levels.fyi](https://www.levels.fyi/services/?ref=TechInterviewHandbook&utm_source=techinterviewhandbook&utm_medium=referral&utm_content=website_negotiation) is most famously known for being a salary database but they also offer complementary services such as salary negotiation where you will be put in-touch with experienced recruiters to help you in the process. How Levels.fyi differs from Moonchaser is that Levels.fyi charges a flat fee whereas Moonchaser takes a percentage of the negotiated difference.
+
+:::tip
+
+Get paid more. Receive salary negotiation help from [**Moonchaser**](https://www.moonchaser.io/?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=website_negotiation) or [**Levels.fyi**](https://www.levels.fyi/services/?ref=TechInterviewHandbook&utm_source=techinterviewhandbook&utm_medium=referral&utm_content=website_negotiation) and their team of experienced recruiters. Don't leave money on the table 💰!
+
+:::
+
+### Grokking Comp Negotiation in Tech
+
+If you are not keen on paying for negotiation services and are a fan of courses, here's something for you - the [Grokking Comp Negotiation in Tech](https://www.educative.io/courses/grokking-comp-negotiation?aff=x23W) course, a text-based course where you can get information on each aspect of negotiation. **Disclaimer: I haven't tried this course before.**
+
 ## Ten Rules of Negotiation
 
 Key points extracted from "Ten Rules for Negotiating a Job Offer" [Part 1](http://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) and [Part 2](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/) by Haseeb Qureshi.
@@ -86,3 +112,9 @@ The easiest thing for a company to give though is stock (if the company offers s
 This is more than just giving the company the impression that you like them (which you continually should). But more so that you must give any company you're talking to a clear path on how to win you. Don't bullshit them or play stupid games. Be clear and unequivocal with your preferences and timeline.
 
 Don't waste their time or play games for your own purposes. Even if the company isn't your dream company, you must be able to imagine at least some package they could offer you that would make you sign. If not, politely turn them down.
+
+:::tip
+
+Get paid more. Receive salary negotiation help from [**Moonchaser**](https://www.moonchaser.io/?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=website_negotiation) or [**Levels.fyi**](https://www.levels.fyi/services/?ref=TechInterviewHandbook&utm_source=techinterviewhandbook&utm_medium=referral&utm_content=website_negotiation) and their team of experienced recruiters. Don't leave money on the table 💰!
+
+:::

@@ -1,7 +1,7 @@
 <h1 align="center">Tech Interview Handbook</h1>
 
 <div align="center">
-  <a href="https://yangshun.github.io/tech-interview-handbook/">
+  <a href="https://techinterviewhandbook.org/">
     <img src="website/static/img/logo.svg" alt="Tech Interview Handbook" width="400">
   </a>
   <br>
@@ -13,30 +13,32 @@
     <em>Credits: <a href="https://dribbble.com/shots/3831443-Tech-Interview-Handbook">Illustration</a> by <a href="https://dribbble.com/leftaligned">@leftaligned</a></em>
   </p>
   <h3>
-    <a href="https://yangshun.github.io/tech-interview-handbook/">Read on the website</a>
+    <a href="https://techinterviewhandbook.org/">Read on the website</a> | <a href="https://facebook.com/techinterviewhandbook">Follow us on Facebook</a> 
   </h3>
 </div>
 
-<hr/>
+---
 
-<h3 align="center">
-  Black Lives Matter. <a href="https://support.eji.org/give/153413/#!/donation/checkout" target="_blank">Support the Equal Justice Initiative</a>
-</h3>
+<div align="center">
+  <h3>Get paid more. Moonchaser has negotiated hundreds of tech offers. Get 1-1 guidance from their experienced team of ex-FAANG PMs, SWEs, and Recruiters. <a href="https://www.moonchaser.io/?utm_source=techinterviewhandbook&utm_medium=referral&utm_content=github" target="_blank">Find out more</a></h3>
+</div>
 
-<hr/>
+---
 
 ## What is this?
 
-Carefully curated content to help you ace your next technical interview, with a focus on algorithms. System design questions are in-progress. Besides the usual algorithm questions, other **awesome** stuff includes:
+No one has time to do a few hundred LeetCode questions. Here are _free and curated_ technical interview preparation materials for busy engineers, brought to you by the author of the [Blind 75 List](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU).
 
-- [How to prepare](https://yangshun.github.io/tech-interview-handbook/coding-round-overview) for coding interviews
-- [Interview Cheatsheet](https://yangshun.github.io/tech-interview-handbook/cheatsheet) - Straight-to-the-point Do's and Don'ts
-- [Algorithm tips and the best practice questions](https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction) categorized by topic
-- ["Front-end Job Interview Questions" answers](https://github.com/yangshun/front-end-interview-handbook)
-- [Interview formats](https://yangshun.github.io/tech-interview-handbook/interview-formats) of the top tech companies
-- [Behavioral questions](https://yangshun.github.io/tech-interview-handbook/behavioral-questions) asked by the top tech companies
-- [Good questions to ask your interviewers](https://yangshun.github.io/tech-interview-handbook/questions-to-ask) at the end of the interviews
-- [Helpful resume tips](https://yangshun.github.io/tech-interview-handbook/resume) to get your resume noticed and the Do's and Don'ts
+Besides the usual algorithm questions, other **awesome** stuff includes:
+
+- [How to prepare](https://techinterviewhandbook.org/coding-round-overview) for coding interviews
+- [Interview Cheatsheet](https://techinterviewhandbook.org/cheatsheet) - Straight-to-the-point Do's and Don'ts
+- [Algorithm tips and the best practice questions](https://techinterviewhandbook.org/algorithms/introduction) categorized by topic
+- [Interview formats](https://techinterviewhandbook.org/interview-formats) of the top tech companies
+- [Behavioral questions](https://techinterviewhandbook.org/behavioral-questions) asked by the top tech companies
+- [Good questions to ask your interviewers](https://techinterviewhandbook.org/questions-to-ask) at the end of the interviews
+- [Helpful resume tips](https://techinterviewhandbook.org/resume) to get your resume noticed and the Do's and Don'ts
+- [Front-End Interview preparation](https://frontendinterviewhandbook.com)
 
 Help from you in contributing content would be very much appreciated!
 
@@ -51,28 +53,32 @@ Anybody who wants to land a job at a tech company but is new to technical interv
 ---
 
 <div align="center">
-  <strong>💰 Looking for a job? Sign up for free with <a href="https://triplebyte.com/a/PJaJNpO/tihg">Triplebyte</a> to efficiently interview with top tech companies! 💰</strong>
+  <h3>💡 Looking for high-quality interview courses? <a href="https://www.educative.io/explore?search_string=interview&aff=x23W">Educative</a> offers a ton of great courses to improve your interview game 💡</h3>
 </div>
 
 ---
 
 ## How is this repository different?
 
-There are many awesome books like [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) and interview-related repositories out there on GitHub, what makes this repository different? The difference is that many existing interview repositories contain mainly links to external resources whereas this repository contains top quality curated content directly for your consumption.
+There are many awesome books like [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/) and interview-related repositories out there on GitHub, what makes this repository different? The difference is that many existing interview repositories contain mainly links to external resources whereas this repository contains top-quality curated content directly for your consumption.
 
 Also, existing resources focus mainly on algorithm questions and lack coverage for more domain-specific and non-technical questions. This handbook aims to cover content beyond the typical algorithmic coding questions. 😎
 
 ## Looking for Front End content?
 
-Front end-related content have been extracted out into a separate repository - [Front End Interview Handbook](https://github.com/yangshun/front-end-interview-handbook).
+Front-end-related content has been moved to a separate website - [Front End Interview Handbook](https://frontendinterviewhandbook.com).
+
+## Looking for System Design content?
+
+We're still working on System Design content. In the meanwhile, check out Educative's [Grokking the System Design Interview course](https://www.educative.io/courses/grokking-the-system-design-interview?aff=x23W), which in our opinion is one of the most useful resources for getting started on system design interviews preparation.
 
 ## Contents
 
-A [Docusaurus](https://github.com/facebook/docusaurus) website has been created to provide a better reading experience. Check out the website [here](https://yangshun.github.io/tech-interview-handbook/)!
+A [Docusaurus](https://github.com/facebook/docusaurus) website has been created to provide a better reading experience. Check out the website [here](https://techinterviewhandbook.org)!
 
 ## Related
 
-If you are interested in how data structures are implemented, check out [Lago](https://github.com/yangshun/lago), a Data Structures and Algorithms library for JavaScript. It is pretty much still WIP but I intend to make it into a library that is able to be used in production and also a reference resource for revising Data Structures and Algorithms.
+If you are interested in how data structures are implemented, check out [Lago](https://github.com/yangshun/lago), a Data Structures and Algorithms library for JavaScript. It is pretty much still WIP but I intend to make it into a library that can be used in production and also a reference resource for revising Data Structures and Algorithms.
 
 ## Contributing
 
@@ -115,4 +121,4 @@ Support this project by becoming a sponsor. Your logo/profile picture will show 
 
 ## Disclaimer
 
-I am providing code in the repository to you under an open source license. Because this is my personal repository, the license you receive to my code is from me and not my employer (Facebook)
+I am providing code in the repository to you under an open source license. Because this is my personal repository, the license you receive to my code is from me and not my employer (Facebook).

@@ -3,6 +3,10 @@ id: sorting-searching
 title: Sorting and Searching
 ---
 
+## Tips
+
+When a given sequence is in a sorted order (be it ascending or descending), using binary search should be one of the first things that come to your mind.
+
 ## Sample questions
 
 - Sorting search results on a page given a certain set of criteria.
@@ -11,7 +15,6 @@ title: Sorting and Searching
 - Given users with locations in a list and a logged-in user with locations, find their travel buddies (people who shared more than half of your locations).
 - Search for an element in a sorted and rotated array.
   - [Source](http://blog.gainlo.co/index.php/2017/01/12/rotated-array-binary-search/)
-- Sort a list where each element is no more than k positions away from its sorted position.
 - Merge two sorted lists together.
 - Give 3 distinct algorithms to find the K largest values in a list of N items.
 - Find the minimum element in a sorted rotated array in faster than O(n) time.

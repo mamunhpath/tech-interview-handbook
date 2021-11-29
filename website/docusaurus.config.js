@@ -1,13 +1,17 @@
 module.exports = {
   title: 'Tech Interview Handbook',
-  tagline:
-    'Carefully curated content to help you ace your next technical interview',
-  url: 'https://yangshun.github.io',
-  baseUrl: '/tech-interview-handbook/',
+  tagline: 'Free curated interview preparation materials for busy engineers',
+  url: 'https://techinterviewhandbook.org',
+  baseUrl: '/',
+  trailingSlash: true,
   favicon: 'img/favicon.png',
   organizationName: 'yangshun',
   projectName: 'tech-interview-handbook',
   themeConfig: {
+    announcementBar: {
+      id: 'announcement-1', // Increment on change
+      content: `⭐️ Bring your interview skills to the next level with Educative. <a href="https://www.educative.io/explore?search_string=interview&aff=x23W">Join today for a discount!</a> ⭐️`,
+    },
     prism: {
       theme: require('prism-react-renderer/themes/github'),
       darkTheme: require('prism-react-renderer/themes/dracula'),
@@ -15,15 +19,25 @@ module.exports = {
     navbar: {
       title: 'Tech Interview Handbook',
       logo: {
-        alt: 'Tech Interview Handbook Logo',
+        alt: '',
         src: 'img/logo.svg',
       },
       items: [
-        {to: 'introduction', label: 'Getting Started', position: 'right'},
+        {href: '/introduction', label: 'Getting Started', position: 'right'},
         {to: 'blog', label: 'Blog', position: 'right'},
         {
           href: 'https://github.com/yangshun/tech-interview-handbook',
           label: 'GitHub',
+          position: 'right',
+        },
+        {
+          href: 'https://www.facebook.com/techinterviewhandbook',
+          label: 'Facebook',
+          position: 'right',
+        },
+        {
+          href: 'https://twitter.com/yangshunz',
+          label: 'Twitter',
           position: 'right',
         },
       ],
@@ -36,15 +50,8 @@ module.exports = {
       trackingID: 'UA-44622716-2',
     },
     algolia: {
-      apiKey: 'bd359779d1c4c71ade6062e8f13f5a83',
-      indexName: 'yangshun-tech-interview',
-    },
-    announcementBar: {
-      id: 'black_lives_matter',
-      content:
-        '<div style="font-weight: bold">Black Lives Matter. <a target="_blank" href="https://support.eji.org/give/153413/#!/donation/checkout">Support the Equal Justice Initiative</a></div>',
-      backgroundColor: '#000',
-      textColor: '#f5f6f7',
+      apiKey: '4dabb055be464346fcb6877f086f08e8',
+      indexName: 'techinterviewhandbook',
     },
   },
   presets: [
@@ -53,7 +60,7 @@ module.exports = {
       {
         docs: {
           path: '../contents',
-          routeBasePath: '',
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/yangshun/tech-interview-handbook/edit/master/contents/',
@@ -65,5 +72,12 @@ module.exports = {
         },
       },
     ],
+  ],
+  scripts: [
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4984084888641317',
+      crossorigin: 'anonymous',
+      async: true,
+    },
   ],
 };

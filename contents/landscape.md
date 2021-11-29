@@ -3,7 +3,7 @@ id: landscape
 title: Landscape
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
+import InternshipSalariesURL from '@site/static/img/internship-salaries.jpg';
 
 Most of the content covered here will be specific to the Bay Area. Landscape differences due to geographical location are mentioned briefly [below](#geographical-location).
 
@@ -17,7 +17,7 @@ Almost every domain leverages on technology, hence Software Engineers are needed
 
 Computer Science is rapidly gaining popularity and engineering is a highly-regarded professional career. Unlike the creative industry, you do not have to be the top 1% of the industry to lead a comfortable life. An engineer fresh out of college working at a Silicon Valley company (both large companies and startups) can expect to receive a starting salary of more than USD 100,000 and it just gets better from there.
 
-### Require lifelong learning
+### Requires lifelong learning
 
 Technology industry is an extremely fast-moving one. Many technologies used today didn't even exist/were popular a decade ago; in 2009, mobile app development and blockchain were pretty much unheard of. Engineers constantly need to upgrade their skills to stay relevant to the demands of the job market. Engineering is a great career for passionate individuals who like to learn.
 
@@ -33,9 +33,15 @@ Top tech companies pay a ridiculous amount for interns:
 
 <div class="text--center">
 
-<img src={useBaseUrl('/img/internship-salaries.jpg')} />
+<figure>
+<img alt="Salaries of top tech internships in 2016" src={InternshipSalariesURL} />
 
-_Salaries of top tech internships in 2016 ([source](https://twitter.com/rodneyfolz/status/724787290824798209))_
+<figcaption>
+
+Salaries of top tech internships in 2016 ([source](https://twitter.com/rodneyfolz/status/724787290824798209))
+
+</figcaption>
+</figure>
 
 </div>
 
@@ -46,16 +52,20 @@ Companies have different focuses depending on the stage they are at and the type
 |  | Early-stage Startup | Late-stage Startup | Large Company |
 | --- | --- | --- | --- |
 | Company Size | <100 | 100-1000 | >1000 |
-| Compensation | Base salary is a bit higher than big companies. Higher equity amount but its value is hard to judge as the company's valuation is unclear and stocks are not worth money yet. | Base salary is a bit higher than big companies. Company valuation is clearer and stocks have higher chance of being worth money. | Depends on the prestige of the company. Compensation is usually market standard or better. Stocks are worth money if company has gone public. |
-| Types of Work | Mainly product development. Engineers have to wear multiple hats - Front End, Back End, DevOps, Design, etc. | Product development and some infra. | Diverse roles and specialized work; dedicated people for each role. Infra work is more common. Also more opportunities for internal transfers. |
-| Career Ladders | Unstructured. No (or very vague) career levels. No formal mentorship nor training. | Somewhat structured. | Very structured. Well-defined career levels. |
-| Iteration Speed | Extremely fast. Struggling to find product market fit. | Moderate. Has found product market fit, trying to grow user base. | Stable product with wide user base. Have to roll out changes incrementally and run experiments. |
+| Compensation | Base salary is a bit higher than big companies. Higher equity amount but its value is hard to judge as the company's valuation is unclear and stocks are not worth money yet. High risk, high return. | Base salary is a bit higher than big companies. Company valuation is clearer and stocks have higher chance of being worth money. | Depends on the prestige of the company. Compensation is usually market standard or better. Stocks are worth money if company has gone public. |
+| Types of Work | Mainly product development. Engineers have to wear multiple hats - Front End, Back End, DevOps, Design, etc. | Product development and some infra. | Diverse roles and specialized work; dedicated people for each role. Infra and prod infra work is more common. More opportunities for internal transfers, sometimes even across the globe. |
+| Career Ladders | Unstructured. No (or very vague) career levels. Not much formal mentorship nor training. | Somewhat structured. | Very structured. Well-defined career levels. |
+| Iteration Speed | Extremely fast. Struggling to find product market fit. | Moderate. Has found product market fit, trying to grow user base. | Stable product with wide user base. Incrementally roll out changes and do lots of experimentation. |
+
+_It's important to note that the above are just general trends and exceptions can apply._
 
 ## Geographical location
 
 |  | US (Silicon Valley/NY) | Singapore |
 | --- | --- | --- |
-| Starting Pay | USD 100,000 | Monthly $4320 (Median), $5000 (75th percentile) |
+| Starting Pay | USD 100,000 | Monthly $5243 (Median), $6316 (75th percentile) |
 | Talent Access | Global talent, diverse nationalities and backgrounds | Usually regional, mostly Asians |
 | Types of Companies | HQ of large companies (Facebook, Amazon, Apple, Google, Microsoft, etc), Startups | Branch offices of large companies, Startups |
 | Types of Engineering Work | Depends on size of office/company | Both product and infra (building new programming languages, frameworks, and tools) |
+
+_Singapore salary data taken from [NUS GES 2020](https://www.moe.gov.sg/-/media/files/post-secondary/ges-2020/web-publication-nus-ges-2020.pdf)._
